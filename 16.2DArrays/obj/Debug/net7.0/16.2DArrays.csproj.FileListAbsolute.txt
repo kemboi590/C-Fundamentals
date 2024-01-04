@@ -1,0 +1,15 @@
+D:\LEARN\C#\16.2DArrays\bin\Debug\net7.0\16.2DArrays.exe
+D:\LEARN\C#\16.2DArrays\bin\Debug\net7.0\16.2DArrays.deps.json
+D:\LEARN\C#\16.2DArrays\bin\Debug\net7.0\16.2DArrays.runtimeconfig.json
+D:\LEARN\C#\16.2DArrays\bin\Debug\net7.0\16.2DArrays.dll
+D:\LEARN\C#\16.2DArrays\bin\Debug\net7.0\16.2DArrays.pdb
+D:\LEARN\C#\16.2DArrays\obj\Debug\net7.0\16.2DArrays.csproj.AssemblyReference.cache
+D:\LEARN\C#\16.2DArrays\obj\Debug\net7.0\16.2DArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\16.2DArrays\obj\Debug\net7.0\16.2DArrays.AssemblyInfoInputs.cache
+D:\LEARN\C#\16.2DArrays\obj\Debug\net7.0\16.2DArrays.AssemblyInfo.cs
+D:\LEARN\C#\16.2DArrays\obj\Debug\net7.0\16.2DArrays.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\16.2DArrays\obj\Debug\net7.0\16.2DArrays.dll
+D:\LEARN\C#\16.2DArrays\obj\Debug\net7.0\refint\16.2DArrays.dll
+D:\LEARN\C#\16.2DArrays\obj\Debug\net7.0\16.2DArrays.pdb
+D:\LEARN\C#\16.2DArrays\obj\Debug\net7.0\16.2DArrays.genruntimeconfig.cache
+D:\LEARN\C#\16.2DArrays\obj\Debug\net7.0\ref\16.2DArrays.dll

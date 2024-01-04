@@ -1,0 +1,15 @@
+D:\LEARN\C#\CalculatorGame\bin\Debug\net7.0\CalculatorGame.exe
+D:\LEARN\C#\CalculatorGame\bin\Debug\net7.0\CalculatorGame.deps.json
+D:\LEARN\C#\CalculatorGame\bin\Debug\net7.0\CalculatorGame.runtimeconfig.json
+D:\LEARN\C#\CalculatorGame\bin\Debug\net7.0\CalculatorGame.dll
+D:\LEARN\C#\CalculatorGame\bin\Debug\net7.0\CalculatorGame.pdb
+D:\LEARN\C#\CalculatorGame\obj\Debug\net7.0\CalculatorGame.csproj.AssemblyReference.cache
+D:\LEARN\C#\CalculatorGame\obj\Debug\net7.0\CalculatorGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\CalculatorGame\obj\Debug\net7.0\CalculatorGame.AssemblyInfoInputs.cache
+D:\LEARN\C#\CalculatorGame\obj\Debug\net7.0\CalculatorGame.AssemblyInfo.cs
+D:\LEARN\C#\CalculatorGame\obj\Debug\net7.0\CalculatorGame.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\CalculatorGame\obj\Debug\net7.0\CalculatorGame.dll
+D:\LEARN\C#\CalculatorGame\obj\Debug\net7.0\refint\CalculatorGame.dll
+D:\LEARN\C#\CalculatorGame\obj\Debug\net7.0\CalculatorGame.pdb
+D:\LEARN\C#\CalculatorGame\obj\Debug\net7.0\CalculatorGame.genruntimeconfig.cache
+D:\LEARN\C#\CalculatorGame\obj\Debug\net7.0\ref\CalculatorGame.dll

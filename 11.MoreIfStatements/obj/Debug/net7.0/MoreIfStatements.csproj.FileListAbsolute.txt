@@ -1,0 +1,15 @@
+D:\LEARN\C#\MoreIfStatements\bin\Debug\net7.0\MoreIfStatements.exe
+D:\LEARN\C#\MoreIfStatements\bin\Debug\net7.0\MoreIfStatements.deps.json
+D:\LEARN\C#\MoreIfStatements\bin\Debug\net7.0\MoreIfStatements.runtimeconfig.json
+D:\LEARN\C#\MoreIfStatements\bin\Debug\net7.0\MoreIfStatements.dll
+D:\LEARN\C#\MoreIfStatements\bin\Debug\net7.0\MoreIfStatements.pdb
+D:\LEARN\C#\MoreIfStatements\obj\Debug\net7.0\MoreIfStatements.csproj.AssemblyReference.cache
+D:\LEARN\C#\MoreIfStatements\obj\Debug\net7.0\MoreIfStatements.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\MoreIfStatements\obj\Debug\net7.0\MoreIfStatements.AssemblyInfoInputs.cache
+D:\LEARN\C#\MoreIfStatements\obj\Debug\net7.0\MoreIfStatements.AssemblyInfo.cs
+D:\LEARN\C#\MoreIfStatements\obj\Debug\net7.0\MoreIfStatements.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\MoreIfStatements\obj\Debug\net7.0\MoreIfStatements.dll
+D:\LEARN\C#\MoreIfStatements\obj\Debug\net7.0\refint\MoreIfStatements.dll
+D:\LEARN\C#\MoreIfStatements\obj\Debug\net7.0\MoreIfStatements.pdb
+D:\LEARN\C#\MoreIfStatements\obj\Debug\net7.0\MoreIfStatements.genruntimeconfig.cache
+D:\LEARN\C#\MoreIfStatements\obj\Debug\net7.0\ref\MoreIfStatements.dll

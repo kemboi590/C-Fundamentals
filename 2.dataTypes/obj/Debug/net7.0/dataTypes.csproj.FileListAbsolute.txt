@@ -1,0 +1,15 @@
+D:\LEARN\C#\dataTypes\bin\Debug\net7.0\dataTypes.exe
+D:\LEARN\C#\dataTypes\bin\Debug\net7.0\dataTypes.deps.json
+D:\LEARN\C#\dataTypes\bin\Debug\net7.0\dataTypes.runtimeconfig.json
+D:\LEARN\C#\dataTypes\bin\Debug\net7.0\dataTypes.dll
+D:\LEARN\C#\dataTypes\bin\Debug\net7.0\dataTypes.pdb
+D:\LEARN\C#\dataTypes\obj\Debug\net7.0\dataTypes.csproj.AssemblyReference.cache
+D:\LEARN\C#\dataTypes\obj\Debug\net7.0\dataTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\dataTypes\obj\Debug\net7.0\dataTypes.AssemblyInfoInputs.cache
+D:\LEARN\C#\dataTypes\obj\Debug\net7.0\dataTypes.AssemblyInfo.cs
+D:\LEARN\C#\dataTypes\obj\Debug\net7.0\dataTypes.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\dataTypes\obj\Debug\net7.0\dataTypes.dll
+D:\LEARN\C#\dataTypes\obj\Debug\net7.0\refint\dataTypes.dll
+D:\LEARN\C#\dataTypes\obj\Debug\net7.0\dataTypes.pdb
+D:\LEARN\C#\dataTypes\obj\Debug\net7.0\dataTypes.genruntimeconfig.cache
+D:\LEARN\C#\dataTypes\obj\Debug\net7.0\ref\dataTypes.dll

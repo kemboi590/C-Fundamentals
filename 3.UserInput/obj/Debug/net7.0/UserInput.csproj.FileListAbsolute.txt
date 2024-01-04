@@ -1,0 +1,15 @@
+D:\LEARN\C#\UserInput\bin\Debug\net7.0\UserInput.exe
+D:\LEARN\C#\UserInput\bin\Debug\net7.0\UserInput.deps.json
+D:\LEARN\C#\UserInput\bin\Debug\net7.0\UserInput.runtimeconfig.json
+D:\LEARN\C#\UserInput\bin\Debug\net7.0\UserInput.dll
+D:\LEARN\C#\UserInput\bin\Debug\net7.0\UserInput.pdb
+D:\LEARN\C#\UserInput\obj\Debug\net7.0\UserInput.csproj.AssemblyReference.cache
+D:\LEARN\C#\UserInput\obj\Debug\net7.0\UserInput.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\UserInput\obj\Debug\net7.0\UserInput.AssemblyInfoInputs.cache
+D:\LEARN\C#\UserInput\obj\Debug\net7.0\UserInput.AssemblyInfo.cs
+D:\LEARN\C#\UserInput\obj\Debug\net7.0\UserInput.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\UserInput\obj\Debug\net7.0\UserInput.dll
+D:\LEARN\C#\UserInput\obj\Debug\net7.0\refint\UserInput.dll
+D:\LEARN\C#\UserInput\obj\Debug\net7.0\UserInput.pdb
+D:\LEARN\C#\UserInput\obj\Debug\net7.0\UserInput.genruntimeconfig.cache
+D:\LEARN\C#\UserInput\obj\Debug\net7.0\ref\UserInput.dll

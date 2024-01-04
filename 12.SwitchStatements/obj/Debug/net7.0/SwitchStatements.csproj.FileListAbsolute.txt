@@ -1,0 +1,15 @@
+D:\LEARN\C#\SwitchStatements\bin\Debug\net7.0\SwitchStatements.exe
+D:\LEARN\C#\SwitchStatements\bin\Debug\net7.0\SwitchStatements.deps.json
+D:\LEARN\C#\SwitchStatements\bin\Debug\net7.0\SwitchStatements.runtimeconfig.json
+D:\LEARN\C#\SwitchStatements\bin\Debug\net7.0\SwitchStatements.dll
+D:\LEARN\C#\SwitchStatements\bin\Debug\net7.0\SwitchStatements.pdb
+D:\LEARN\C#\SwitchStatements\obj\Debug\net7.0\SwitchStatements.csproj.AssemblyReference.cache
+D:\LEARN\C#\SwitchStatements\obj\Debug\net7.0\SwitchStatements.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\SwitchStatements\obj\Debug\net7.0\SwitchStatements.AssemblyInfoInputs.cache
+D:\LEARN\C#\SwitchStatements\obj\Debug\net7.0\SwitchStatements.AssemblyInfo.cs
+D:\LEARN\C#\SwitchStatements\obj\Debug\net7.0\SwitchStatements.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\SwitchStatements\obj\Debug\net7.0\SwitchStatements.dll
+D:\LEARN\C#\SwitchStatements\obj\Debug\net7.0\refint\SwitchStatements.dll
+D:\LEARN\C#\SwitchStatements\obj\Debug\net7.0\SwitchStatements.pdb
+D:\LEARN\C#\SwitchStatements\obj\Debug\net7.0\SwitchStatements.genruntimeconfig.cache
+D:\LEARN\C#\SwitchStatements\obj\Debug\net7.0\ref\SwitchStatements.dll

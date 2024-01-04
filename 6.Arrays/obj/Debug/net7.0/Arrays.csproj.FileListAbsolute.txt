@@ -1,0 +1,15 @@
+D:\LEARN\C#\Arrays\bin\Debug\net7.0\Arrays.exe
+D:\LEARN\C#\Arrays\bin\Debug\net7.0\Arrays.deps.json
+D:\LEARN\C#\Arrays\bin\Debug\net7.0\Arrays.runtimeconfig.json
+D:\LEARN\C#\Arrays\bin\Debug\net7.0\Arrays.dll
+D:\LEARN\C#\Arrays\bin\Debug\net7.0\Arrays.pdb
+D:\LEARN\C#\Arrays\obj\Debug\net7.0\Arrays.csproj.AssemblyReference.cache
+D:\LEARN\C#\Arrays\obj\Debug\net7.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\Arrays\obj\Debug\net7.0\Arrays.AssemblyInfoInputs.cache
+D:\LEARN\C#\Arrays\obj\Debug\net7.0\Arrays.AssemblyInfo.cs
+D:\LEARN\C#\Arrays\obj\Debug\net7.0\Arrays.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\Arrays\obj\Debug\net7.0\Arrays.dll
+D:\LEARN\C#\Arrays\obj\Debug\net7.0\refint\Arrays.dll
+D:\LEARN\C#\Arrays\obj\Debug\net7.0\Arrays.pdb
+D:\LEARN\C#\Arrays\obj\Debug\net7.0\Arrays.genruntimeconfig.cache
+D:\LEARN\C#\Arrays\obj\Debug\net7.0\ref\Arrays.dll

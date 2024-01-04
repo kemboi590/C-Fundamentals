@@ -1,0 +1,15 @@
+D:\LEARN\C#\MadLibs-Game\obj\Debug\net7.0\MadLibs-Game.csproj.AssemblyReference.cache
+D:\LEARN\C#\MadLibs-Game\obj\Debug\net7.0\MadLibs-Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\MadLibs-Game\obj\Debug\net7.0\MadLibs-Game.AssemblyInfoInputs.cache
+D:\LEARN\C#\MadLibs-Game\obj\Debug\net7.0\MadLibs-Game.AssemblyInfo.cs
+D:\LEARN\C#\MadLibs-Game\obj\Debug\net7.0\MadLibs-Game.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\MadLibs-Game\bin\Debug\net7.0\MadLibs-Game.exe
+D:\LEARN\C#\MadLibs-Game\bin\Debug\net7.0\MadLibs-Game.deps.json
+D:\LEARN\C#\MadLibs-Game\bin\Debug\net7.0\MadLibs-Game.runtimeconfig.json
+D:\LEARN\C#\MadLibs-Game\bin\Debug\net7.0\MadLibs-Game.dll
+D:\LEARN\C#\MadLibs-Game\bin\Debug\net7.0\MadLibs-Game.pdb
+D:\LEARN\C#\MadLibs-Game\obj\Debug\net7.0\MadLibs-Game.dll
+D:\LEARN\C#\MadLibs-Game\obj\Debug\net7.0\refint\MadLibs-Game.dll
+D:\LEARN\C#\MadLibs-Game\obj\Debug\net7.0\MadLibs-Game.pdb
+D:\LEARN\C#\MadLibs-Game\obj\Debug\net7.0\MadLibs-Game.genruntimeconfig.cache
+D:\LEARN\C#\MadLibs-Game\obj\Debug\net7.0\ref\MadLibs-Game.dll

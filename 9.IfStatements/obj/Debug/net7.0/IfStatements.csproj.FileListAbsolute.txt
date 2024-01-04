@@ -1,0 +1,15 @@
+D:\LEARN\C#\IfStatements\bin\Debug\net7.0\IfStatements.exe
+D:\LEARN\C#\IfStatements\bin\Debug\net7.0\IfStatements.deps.json
+D:\LEARN\C#\IfStatements\bin\Debug\net7.0\IfStatements.runtimeconfig.json
+D:\LEARN\C#\IfStatements\bin\Debug\net7.0\IfStatements.dll
+D:\LEARN\C#\IfStatements\bin\Debug\net7.0\IfStatements.pdb
+D:\LEARN\C#\IfStatements\obj\Debug\net7.0\IfStatements.csproj.AssemblyReference.cache
+D:\LEARN\C#\IfStatements\obj\Debug\net7.0\IfStatements.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\IfStatements\obj\Debug\net7.0\IfStatements.AssemblyInfoInputs.cache
+D:\LEARN\C#\IfStatements\obj\Debug\net7.0\IfStatements.AssemblyInfo.cs
+D:\LEARN\C#\IfStatements\obj\Debug\net7.0\IfStatements.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\IfStatements\obj\Debug\net7.0\IfStatements.dll
+D:\LEARN\C#\IfStatements\obj\Debug\net7.0\refint\IfStatements.dll
+D:\LEARN\C#\IfStatements\obj\Debug\net7.0\IfStatements.pdb
+D:\LEARN\C#\IfStatements\obj\Debug\net7.0\IfStatements.genruntimeconfig.cache
+D:\LEARN\C#\IfStatements\obj\Debug\net7.0\ref\IfStatements.dll

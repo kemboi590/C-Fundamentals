@@ -1,0 +1,15 @@
+D:\LEARN\C#\17.Practice\bin\Debug\net7.0\17.Practice.exe
+D:\LEARN\C#\17.Practice\bin\Debug\net7.0\17.Practice.deps.json
+D:\LEARN\C#\17.Practice\bin\Debug\net7.0\17.Practice.runtimeconfig.json
+D:\LEARN\C#\17.Practice\bin\Debug\net7.0\17.Practice.dll
+D:\LEARN\C#\17.Practice\bin\Debug\net7.0\17.Practice.pdb
+D:\LEARN\C#\17.Practice\obj\Debug\net7.0\17.Practice.csproj.AssemblyReference.cache
+D:\LEARN\C#\17.Practice\obj\Debug\net7.0\17.Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\17.Practice\obj\Debug\net7.0\17.Practice.AssemblyInfoInputs.cache
+D:\LEARN\C#\17.Practice\obj\Debug\net7.0\17.Practice.AssemblyInfo.cs
+D:\LEARN\C#\17.Practice\obj\Debug\net7.0\17.Practice.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\17.Practice\obj\Debug\net7.0\17.Practice.dll
+D:\LEARN\C#\17.Practice\obj\Debug\net7.0\refint\17.Practice.dll
+D:\LEARN\C#\17.Practice\obj\Debug\net7.0\17.Practice.pdb
+D:\LEARN\C#\17.Practice\obj\Debug\net7.0\17.Practice.genruntimeconfig.cache
+D:\LEARN\C#\17.Practice\obj\Debug\net7.0\ref\17.Practice.dll
