@@ -1,0 +1,5 @@
+D:\LEARN\C#\Getter & Setters\obj\Debug\net7.0\Getter & Setters.csproj.AssemblyReference.cache
+D:\LEARN\C#\Getter & Setters\obj\Debug\net7.0\Getter & Setters.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\Getter & Setters\obj\Debug\net7.0\Getter & Setters.AssemblyInfoInputs.cache
+D:\LEARN\C#\Getter & Setters\obj\Debug\net7.0\Getter & Setters.AssemblyInfo.cs
+D:\LEARN\C#\Getter & Setters\obj\Debug\net7.0\Getter & Setters.csproj.CoreCompileInputs.cache

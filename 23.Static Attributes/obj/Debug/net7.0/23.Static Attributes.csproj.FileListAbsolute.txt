@@ -1,0 +1,15 @@
+D:\LEARN\C#\23.Static Attributes\bin\Debug\net7.0\23.Static Attributes.exe
+D:\LEARN\C#\23.Static Attributes\bin\Debug\net7.0\23.Static Attributes.deps.json
+D:\LEARN\C#\23.Static Attributes\bin\Debug\net7.0\23.Static Attributes.runtimeconfig.json
+D:\LEARN\C#\23.Static Attributes\bin\Debug\net7.0\23.Static Attributes.dll
+D:\LEARN\C#\23.Static Attributes\bin\Debug\net7.0\23.Static Attributes.pdb
+D:\LEARN\C#\23.Static Attributes\obj\Debug\net7.0\23.Static Attributes.csproj.AssemblyReference.cache
+D:\LEARN\C#\23.Static Attributes\obj\Debug\net7.0\23.Static Attributes.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\23.Static Attributes\obj\Debug\net7.0\23.Static Attributes.AssemblyInfoInputs.cache
+D:\LEARN\C#\23.Static Attributes\obj\Debug\net7.0\23.Static Attributes.AssemblyInfo.cs
+D:\LEARN\C#\23.Static Attributes\obj\Debug\net7.0\23.Static Attributes.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\23.Static Attributes\obj\Debug\net7.0\23.Static Attributes.dll
+D:\LEARN\C#\23.Static Attributes\obj\Debug\net7.0\refint\23.Static Attributes.dll
+D:\LEARN\C#\23.Static Attributes\obj\Debug\net7.0\23.Static Attributes.pdb
+D:\LEARN\C#\23.Static Attributes\obj\Debug\net7.0\23.Static Attributes.genruntimeconfig.cache
+D:\LEARN\C#\23.Static Attributes\obj\Debug\net7.0\ref\23.Static Attributes.dll

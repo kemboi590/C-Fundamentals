@@ -1,0 +1,15 @@
+D:\LEARN\C#\24.Static Methods\bin\Debug\net7.0\24.Static Methods.exe
+D:\LEARN\C#\24.Static Methods\bin\Debug\net7.0\24.Static Methods.deps.json
+D:\LEARN\C#\24.Static Methods\bin\Debug\net7.0\24.Static Methods.runtimeconfig.json
+D:\LEARN\C#\24.Static Methods\bin\Debug\net7.0\24.Static Methods.dll
+D:\LEARN\C#\24.Static Methods\bin\Debug\net7.0\24.Static Methods.pdb
+D:\LEARN\C#\24.Static Methods\obj\Debug\net7.0\24.Static Methods.csproj.AssemblyReference.cache
+D:\LEARN\C#\24.Static Methods\obj\Debug\net7.0\24.Static Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\24.Static Methods\obj\Debug\net7.0\24.Static Methods.AssemblyInfoInputs.cache
+D:\LEARN\C#\24.Static Methods\obj\Debug\net7.0\24.Static Methods.AssemblyInfo.cs
+D:\LEARN\C#\24.Static Methods\obj\Debug\net7.0\24.Static Methods.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\24.Static Methods\obj\Debug\net7.0\24.Static Methods.dll
+D:\LEARN\C#\24.Static Methods\obj\Debug\net7.0\refint\24.Static Methods.dll
+D:\LEARN\C#\24.Static Methods\obj\Debug\net7.0\24.Static Methods.pdb
+D:\LEARN\C#\24.Static Methods\obj\Debug\net7.0\24.Static Methods.genruntimeconfig.cache
+D:\LEARN\C#\24.Static Methods\obj\Debug\net7.0\ref\24.Static Methods.dll

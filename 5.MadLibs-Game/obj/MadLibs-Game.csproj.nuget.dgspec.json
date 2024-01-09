@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LEARN\\C#\\MadLibs-Game\\MadLibs-Game.csproj": {}
+    "D:\\LEARN\\C#\\5.MadLibs-Game\\MadLibs-Game.csproj": {}
   },
   "projects": {
-    "D:\\LEARN\\C#\\MadLibs-Game\\MadLibs-Game.csproj": {
+    "D:\\LEARN\\C#\\5.MadLibs-Game\\MadLibs-Game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LEARN\\C#\\MadLibs-Game\\MadLibs-Game.csproj",
+        "projectUniqueName": "D:\\LEARN\\C#\\5.MadLibs-Game\\MadLibs-Game.csproj",
         "projectName": "MadLibs-Game",
-        "projectPath": "D:\\LEARN\\C#\\MadLibs-Game\\MadLibs-Game.csproj",
+        "projectPath": "D:\\LEARN\\C#\\5.MadLibs-Game\\MadLibs-Game.csproj",
         "packagesPath": "C:\\Users\\KEMBOI\\.nuget\\packages\\",
-        "outputPath": "D:\\LEARN\\C#\\MadLibs-Game\\obj\\",
+        "outputPath": "D:\\LEARN\\C#\\5.MadLibs-Game\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KEMBOI\\AppData\\Roaming\\NuGet\\NuGet.Config",

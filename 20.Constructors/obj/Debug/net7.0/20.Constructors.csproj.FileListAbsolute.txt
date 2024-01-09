@@ -1,0 +1,15 @@
+D:\LEARN\C#\20.Constructors\bin\Debug\net7.0\20.Constructors.exe
+D:\LEARN\C#\20.Constructors\bin\Debug\net7.0\20.Constructors.deps.json
+D:\LEARN\C#\20.Constructors\bin\Debug\net7.0\20.Constructors.runtimeconfig.json
+D:\LEARN\C#\20.Constructors\bin\Debug\net7.0\20.Constructors.dll
+D:\LEARN\C#\20.Constructors\bin\Debug\net7.0\20.Constructors.pdb
+D:\LEARN\C#\20.Constructors\obj\Debug\net7.0\20.Constructors.csproj.AssemblyReference.cache
+D:\LEARN\C#\20.Constructors\obj\Debug\net7.0\20.Constructors.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\20.Constructors\obj\Debug\net7.0\20.Constructors.AssemblyInfoInputs.cache
+D:\LEARN\C#\20.Constructors\obj\Debug\net7.0\20.Constructors.AssemblyInfo.cs
+D:\LEARN\C#\20.Constructors\obj\Debug\net7.0\20.Constructors.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\20.Constructors\obj\Debug\net7.0\20.Constructors.dll
+D:\LEARN\C#\20.Constructors\obj\Debug\net7.0\refint\20.Constructors.dll
+D:\LEARN\C#\20.Constructors\obj\Debug\net7.0\20.Constructors.pdb
+D:\LEARN\C#\20.Constructors\obj\Debug\net7.0\20.Constructors.genruntimeconfig.cache
+D:\LEARN\C#\20.Constructors\obj\Debug\net7.0\ref\20.Constructors.dll

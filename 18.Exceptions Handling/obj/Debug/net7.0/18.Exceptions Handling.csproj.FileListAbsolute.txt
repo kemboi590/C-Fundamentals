@@ -1,0 +1,15 @@
+D:\LEARN\C#\18.Exceptions Handling\bin\Debug\net7.0\18.Exceptions Handling.exe
+D:\LEARN\C#\18.Exceptions Handling\bin\Debug\net7.0\18.Exceptions Handling.deps.json
+D:\LEARN\C#\18.Exceptions Handling\bin\Debug\net7.0\18.Exceptions Handling.runtimeconfig.json
+D:\LEARN\C#\18.Exceptions Handling\bin\Debug\net7.0\18.Exceptions Handling.dll
+D:\LEARN\C#\18.Exceptions Handling\bin\Debug\net7.0\18.Exceptions Handling.pdb
+D:\LEARN\C#\18.Exceptions Handling\obj\Debug\net7.0\18.Exceptions Handling.csproj.AssemblyReference.cache
+D:\LEARN\C#\18.Exceptions Handling\obj\Debug\net7.0\18.Exceptions Handling.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\18.Exceptions Handling\obj\Debug\net7.0\18.Exceptions Handling.AssemblyInfoInputs.cache
+D:\LEARN\C#\18.Exceptions Handling\obj\Debug\net7.0\18.Exceptions Handling.AssemblyInfo.cs
+D:\LEARN\C#\18.Exceptions Handling\obj\Debug\net7.0\18.Exceptions Handling.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\18.Exceptions Handling\obj\Debug\net7.0\18.Exceptions Handling.dll
+D:\LEARN\C#\18.Exceptions Handling\obj\Debug\net7.0\refint\18.Exceptions Handling.dll
+D:\LEARN\C#\18.Exceptions Handling\obj\Debug\net7.0\18.Exceptions Handling.pdb
+D:\LEARN\C#\18.Exceptions Handling\obj\Debug\net7.0\18.Exceptions Handling.genruntimeconfig.cache
+D:\LEARN\C#\18.Exceptions Handling\obj\Debug\net7.0\ref\18.Exceptions Handling.dll

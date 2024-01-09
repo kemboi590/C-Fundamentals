@@ -1,0 +1,15 @@
+D:\LEARN\C#\21.Object Methods\bin\Debug\net7.0\21.Object Methods.exe
+D:\LEARN\C#\21.Object Methods\bin\Debug\net7.0\21.Object Methods.deps.json
+D:\LEARN\C#\21.Object Methods\bin\Debug\net7.0\21.Object Methods.runtimeconfig.json
+D:\LEARN\C#\21.Object Methods\bin\Debug\net7.0\21.Object Methods.dll
+D:\LEARN\C#\21.Object Methods\bin\Debug\net7.0\21.Object Methods.pdb
+D:\LEARN\C#\21.Object Methods\obj\Debug\net7.0\21.Object Methods.csproj.AssemblyReference.cache
+D:\LEARN\C#\21.Object Methods\obj\Debug\net7.0\21.Object Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\21.Object Methods\obj\Debug\net7.0\21.Object Methods.AssemblyInfoInputs.cache
+D:\LEARN\C#\21.Object Methods\obj\Debug\net7.0\21.Object Methods.AssemblyInfo.cs
+D:\LEARN\C#\21.Object Methods\obj\Debug\net7.0\21.Object Methods.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\21.Object Methods\obj\Debug\net7.0\21.Object Methods.dll
+D:\LEARN\C#\21.Object Methods\obj\Debug\net7.0\refint\21.Object Methods.dll
+D:\LEARN\C#\21.Object Methods\obj\Debug\net7.0\21.Object Methods.pdb
+D:\LEARN\C#\21.Object Methods\obj\Debug\net7.0\21.Object Methods.genruntimeconfig.cache
+D:\LEARN\C#\21.Object Methods\obj\Debug\net7.0\ref\21.Object Methods.dll

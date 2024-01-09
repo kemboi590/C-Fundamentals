@@ -1,0 +1,15 @@
+D:\LEARN\C#\24.Inheritance\bin\Debug\net7.0\24.Inheritance.exe
+D:\LEARN\C#\24.Inheritance\bin\Debug\net7.0\24.Inheritance.deps.json
+D:\LEARN\C#\24.Inheritance\bin\Debug\net7.0\24.Inheritance.runtimeconfig.json
+D:\LEARN\C#\24.Inheritance\bin\Debug\net7.0\24.Inheritance.dll
+D:\LEARN\C#\24.Inheritance\bin\Debug\net7.0\24.Inheritance.pdb
+D:\LEARN\C#\24.Inheritance\obj\Debug\net7.0\24.Inheritance.csproj.AssemblyReference.cache
+D:\LEARN\C#\24.Inheritance\obj\Debug\net7.0\24.Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\24.Inheritance\obj\Debug\net7.0\24.Inheritance.AssemblyInfoInputs.cache
+D:\LEARN\C#\24.Inheritance\obj\Debug\net7.0\24.Inheritance.AssemblyInfo.cs
+D:\LEARN\C#\24.Inheritance\obj\Debug\net7.0\24.Inheritance.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\24.Inheritance\obj\Debug\net7.0\24.Inheritance.dll
+D:\LEARN\C#\24.Inheritance\obj\Debug\net7.0\refint\24.Inheritance.dll
+D:\LEARN\C#\24.Inheritance\obj\Debug\net7.0\24.Inheritance.pdb
+D:\LEARN\C#\24.Inheritance\obj\Debug\net7.0\24.Inheritance.genruntimeconfig.cache
+D:\LEARN\C#\24.Inheritance\obj\Debug\net7.0\ref\24.Inheritance.dll

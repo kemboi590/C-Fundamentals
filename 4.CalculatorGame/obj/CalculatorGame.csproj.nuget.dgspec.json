@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LEARN\\C#\\CalculatorGame\\CalculatorGame.csproj": {}
+    "D:\\LEARN\\C#\\4.CalculatorGame\\CalculatorGame.csproj": {}
   },
   "projects": {
-    "D:\\LEARN\\C#\\CalculatorGame\\CalculatorGame.csproj": {
+    "D:\\LEARN\\C#\\4.CalculatorGame\\CalculatorGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LEARN\\C#\\CalculatorGame\\CalculatorGame.csproj",
+        "projectUniqueName": "D:\\LEARN\\C#\\4.CalculatorGame\\CalculatorGame.csproj",
         "projectName": "CalculatorGame",
-        "projectPath": "D:\\LEARN\\C#\\CalculatorGame\\CalculatorGame.csproj",
+        "projectPath": "D:\\LEARN\\C#\\4.CalculatorGame\\CalculatorGame.csproj",
         "packagesPath": "C:\\Users\\KEMBOI\\.nuget\\packages\\",
-        "outputPath": "D:\\LEARN\\C#\\CalculatorGame\\obj\\",
+        "outputPath": "D:\\LEARN\\C#\\4.CalculatorGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KEMBOI\\AppData\\Roaming\\NuGet\\NuGet.Config",

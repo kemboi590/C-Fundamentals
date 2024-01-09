@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LEARN\\C#\\IfStatements\\IfStatements.csproj",
+      "projectUniqueName": "D:\\LEARN\\C#\\9.IfStatements\\IfStatements.csproj",
       "projectName": "IfStatements",
-      "projectPath": "D:\\LEARN\\C#\\IfStatements\\IfStatements.csproj",
+      "projectPath": "D:\\LEARN\\C#\\9.IfStatements\\IfStatements.csproj",
       "packagesPath": "C:\\Users\\KEMBOI\\.nuget\\packages\\",
-      "outputPath": "D:\\LEARN\\C#\\IfStatements\\obj\\",
+      "outputPath": "D:\\LEARN\\C#\\9.IfStatements\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\KEMBOI\\AppData\\Roaming\\NuGet\\NuGet.Config",

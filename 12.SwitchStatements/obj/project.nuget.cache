@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+XgCRHvY0ZAU+RxEBMVZaQI5cJKawdWG354TGJjiJvYnn4MGvtc14TTc1nr54t67/aTNc2fIFIJy+kJuxktv6Q==",
+  "dgSpecHash": "xnnlfj1WAO+/3Kh4JjfiP46S8Hm45m27oRd/Yhc0QNAM2L950ySEHm1a/sOKgSmPkuvKLneYQCnJHfIcBrmaww==",
   "success": true,
-  "projectFilePath": "D:\\LEARN\\C#\\SwitchStatements\\SwitchStatements.csproj",
+  "projectFilePath": "D:\\LEARN\\C#\\12.SwitchStatements\\SwitchStatements.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

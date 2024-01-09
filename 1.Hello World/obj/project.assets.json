@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LEARN\\C#\\Hello World\\Hello World.csproj",
+      "projectUniqueName": "D:\\LEARN\\C#\\1.Hello World\\Hello World.csproj",
       "projectName": "Hello World",
-      "projectPath": "D:\\LEARN\\C#\\Hello World\\Hello World.csproj",
+      "projectPath": "D:\\LEARN\\C#\\1.Hello World\\Hello World.csproj",
       "packagesPath": "C:\\Users\\KEMBOI\\.nuget\\packages\\",
-      "outputPath": "D:\\LEARN\\C#\\Hello World\\obj\\",
+      "outputPath": "D:\\LEARN\\C#\\1.Hello World\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\KEMBOI\\AppData\\Roaming\\NuGet\\NuGet.Config",

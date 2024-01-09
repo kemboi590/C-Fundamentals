@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ruBdjz+fgZToDv8POrwMOOHDuRITbICArRaCiQv03pOFmmj5DSBbYFfr2435d/cD/SjTxm2Mja1b5LLsCln3Qg==",
+  "dgSpecHash": "6L4W4fToTCDCd0JF7x31x+pYuqdTPbLTDBE3KjMOVn1dp4kwq8iDRo4yi22ZK07IfnnIRnYPvNDElSwKajEcbQ==",
   "success": true,
-  "projectFilePath": "D:\\LEARN\\C#\\CalculatorGame\\CalculatorGame.csproj",
+  "projectFilePath": "D:\\LEARN\\C#\\4.CalculatorGame\\CalculatorGame.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

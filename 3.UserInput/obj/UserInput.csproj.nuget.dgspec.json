@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LEARN\\C#\\UserInput\\UserInput.csproj": {}
+    "D:\\LEARN\\C#\\3.UserInput\\UserInput.csproj": {}
   },
   "projects": {
-    "D:\\LEARN\\C#\\UserInput\\UserInput.csproj": {
+    "D:\\LEARN\\C#\\3.UserInput\\UserInput.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LEARN\\C#\\UserInput\\UserInput.csproj",
+        "projectUniqueName": "D:\\LEARN\\C#\\3.UserInput\\UserInput.csproj",
         "projectName": "UserInput",
-        "projectPath": "D:\\LEARN\\C#\\UserInput\\UserInput.csproj",
+        "projectPath": "D:\\LEARN\\C#\\3.UserInput\\UserInput.csproj",
         "packagesPath": "C:\\Users\\KEMBOI\\.nuget\\packages\\",
-        "outputPath": "D:\\LEARN\\C#\\UserInput\\obj\\",
+        "outputPath": "D:\\LEARN\\C#\\3.UserInput\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KEMBOI\\AppData\\Roaming\\NuGet\\NuGet.Config",

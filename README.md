@@ -40,6 +40,10 @@ This repository is a collection of fundamental C# programming concepts. It is de
    - Declaration and initialization of two-dimensional arrays.
    - Accessing and manipulating elements in a 2D array.
 
+10. **Exceptions Handling**
+   -
+   -  
+
 ## Getting Started
 
 1. Clone this repository to your local machine:

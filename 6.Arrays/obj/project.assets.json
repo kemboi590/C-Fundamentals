@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LEARN\\C#\\Arrays\\Arrays.csproj",
+      "projectUniqueName": "D:\\LEARN\\C#\\6.Arrays\\Arrays.csproj",
       "projectName": "Arrays",
-      "projectPath": "D:\\LEARN\\C#\\Arrays\\Arrays.csproj",
+      "projectPath": "D:\\LEARN\\C#\\6.Arrays\\Arrays.csproj",
       "packagesPath": "C:\\Users\\KEMBOI\\.nuget\\packages\\",
-      "outputPath": "D:\\LEARN\\C#\\Arrays\\obj\\",
+      "outputPath": "D:\\LEARN\\C#\\6.Arrays\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\KEMBOI\\AppData\\Roaming\\NuGet\\NuGet.Config",

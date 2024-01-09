@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LEARN\\C#\\dataTypes\\dataTypes.csproj": {}
+    "D:\\LEARN\\C#\\2.dataTypes\\dataTypes.csproj": {}
   },
   "projects": {
-    "D:\\LEARN\\C#\\dataTypes\\dataTypes.csproj": {
+    "D:\\LEARN\\C#\\2.dataTypes\\dataTypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LEARN\\C#\\dataTypes\\dataTypes.csproj",
+        "projectUniqueName": "D:\\LEARN\\C#\\2.dataTypes\\dataTypes.csproj",
         "projectName": "dataTypes",
-        "projectPath": "D:\\LEARN\\C#\\dataTypes\\dataTypes.csproj",
+        "projectPath": "D:\\LEARN\\C#\\2.dataTypes\\dataTypes.csproj",
         "packagesPath": "C:\\Users\\KEMBOI\\.nuget\\packages\\",
-        "outputPath": "D:\\LEARN\\C#\\dataTypes\\obj\\",
+        "outputPath": "D:\\LEARN\\C#\\2.dataTypes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KEMBOI\\AppData\\Roaming\\NuGet\\NuGet.Config",

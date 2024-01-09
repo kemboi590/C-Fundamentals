@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LEARN\\C#\\ReturnStatements\\ReturnStatements.csproj": {}
+    "D:\\LEARN\\C#\\8.ReturnStatements\\ReturnStatements.csproj": {}
   },
   "projects": {
-    "D:\\LEARN\\C#\\ReturnStatements\\ReturnStatements.csproj": {
+    "D:\\LEARN\\C#\\8.ReturnStatements\\ReturnStatements.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LEARN\\C#\\ReturnStatements\\ReturnStatements.csproj",
+        "projectUniqueName": "D:\\LEARN\\C#\\8.ReturnStatements\\ReturnStatements.csproj",
         "projectName": "ReturnStatements",
-        "projectPath": "D:\\LEARN\\C#\\ReturnStatements\\ReturnStatements.csproj",
+        "projectPath": "D:\\LEARN\\C#\\8.ReturnStatements\\ReturnStatements.csproj",
         "packagesPath": "C:\\Users\\KEMBOI\\.nuget\\packages\\",
-        "outputPath": "D:\\LEARN\\C#\\ReturnStatements\\obj\\",
+        "outputPath": "D:\\LEARN\\C#\\8.ReturnStatements\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KEMBOI\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,15 @@
+D:\LEARN\C#\19.Classes and Objects\bin\Debug\net7.0\19.Classes and Objects.exe
+D:\LEARN\C#\19.Classes and Objects\bin\Debug\net7.0\19.Classes and Objects.deps.json
+D:\LEARN\C#\19.Classes and Objects\bin\Debug\net7.0\19.Classes and Objects.runtimeconfig.json
+D:\LEARN\C#\19.Classes and Objects\bin\Debug\net7.0\19.Classes and Objects.dll
+D:\LEARN\C#\19.Classes and Objects\bin\Debug\net7.0\19.Classes and Objects.pdb
+D:\LEARN\C#\19.Classes and Objects\obj\Debug\net7.0\19.Classes and Objects.csproj.AssemblyReference.cache
+D:\LEARN\C#\19.Classes and Objects\obj\Debug\net7.0\19.Classes and Objects.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\19.Classes and Objects\obj\Debug\net7.0\19.Classes and Objects.AssemblyInfoInputs.cache
+D:\LEARN\C#\19.Classes and Objects\obj\Debug\net7.0\19.Classes and Objects.AssemblyInfo.cs
+D:\LEARN\C#\19.Classes and Objects\obj\Debug\net7.0\19.Classes and Objects.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\19.Classes and Objects\obj\Debug\net7.0\19.Classes and Objects.dll
+D:\LEARN\C#\19.Classes and Objects\obj\Debug\net7.0\refint\19.Classes and Objects.dll
+D:\LEARN\C#\19.Classes and Objects\obj\Debug\net7.0\19.Classes and Objects.pdb
+D:\LEARN\C#\19.Classes and Objects\obj\Debug\net7.0\19.Classes and Objects.genruntimeconfig.cache
+D:\LEARN\C#\19.Classes and Objects\obj\Debug\net7.0\ref\19.Classes and Objects.dll

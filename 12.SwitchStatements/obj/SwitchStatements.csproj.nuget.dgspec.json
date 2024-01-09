@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LEARN\\C#\\SwitchStatements\\SwitchStatements.csproj": {}
+    "D:\\LEARN\\C#\\12.SwitchStatements\\SwitchStatements.csproj": {}
   },
   "projects": {
-    "D:\\LEARN\\C#\\SwitchStatements\\SwitchStatements.csproj": {
+    "D:\\LEARN\\C#\\12.SwitchStatements\\SwitchStatements.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LEARN\\C#\\SwitchStatements\\SwitchStatements.csproj",
+        "projectUniqueName": "D:\\LEARN\\C#\\12.SwitchStatements\\SwitchStatements.csproj",
         "projectName": "SwitchStatements",
-        "projectPath": "D:\\LEARN\\C#\\SwitchStatements\\SwitchStatements.csproj",
+        "projectPath": "D:\\LEARN\\C#\\12.SwitchStatements\\SwitchStatements.csproj",
         "packagesPath": "C:\\Users\\KEMBOI\\.nuget\\packages\\",
-        "outputPath": "D:\\LEARN\\C#\\SwitchStatements\\obj\\",
+        "outputPath": "D:\\LEARN\\C#\\12.SwitchStatements\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KEMBOI\\AppData\\Roaming\\NuGet\\NuGet.Config",

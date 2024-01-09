@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LEARN\\C#\\MoreIfStatements\\MoreIfStatements.csproj",
+      "projectUniqueName": "D:\\LEARN\\C#\\11.MoreIfStatements\\MoreIfStatements.csproj",
       "projectName": "MoreIfStatements",
-      "projectPath": "D:\\LEARN\\C#\\MoreIfStatements\\MoreIfStatements.csproj",
+      "projectPath": "D:\\LEARN\\C#\\11.MoreIfStatements\\MoreIfStatements.csproj",
       "packagesPath": "C:\\Users\\KEMBOI\\.nuget\\packages\\",
-      "outputPath": "D:\\LEARN\\C#\\MoreIfStatements\\obj\\",
+      "outputPath": "D:\\LEARN\\C#\\11.MoreIfStatements\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\KEMBOI\\AppData\\Roaming\\NuGet\\NuGet.Config",

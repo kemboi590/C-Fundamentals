@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LEARN\\C#\\Methods\\Methods.csproj",
+      "projectUniqueName": "D:\\LEARN\\C#\\7.Methods\\Methods.csproj",
       "projectName": "Methods",
-      "projectPath": "D:\\LEARN\\C#\\Methods\\Methods.csproj",
+      "projectPath": "D:\\LEARN\\C#\\7.Methods\\Methods.csproj",
       "packagesPath": "C:\\Users\\KEMBOI\\.nuget\\packages\\",
-      "outputPath": "D:\\LEARN\\C#\\Methods\\obj\\",
+      "outputPath": "D:\\LEARN\\C#\\7.Methods\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\KEMBOI\\AppData\\Roaming\\NuGet\\NuGet.Config",
