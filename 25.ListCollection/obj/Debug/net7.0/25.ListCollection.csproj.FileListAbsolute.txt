@@ -1,0 +1,15 @@
+D:\LEARN\C#\25.ListCollection\bin\Debug\net7.0\25.ListCollection.exe
+D:\LEARN\C#\25.ListCollection\bin\Debug\net7.0\25.ListCollection.deps.json
+D:\LEARN\C#\25.ListCollection\bin\Debug\net7.0\25.ListCollection.runtimeconfig.json
+D:\LEARN\C#\25.ListCollection\bin\Debug\net7.0\25.ListCollection.dll
+D:\LEARN\C#\25.ListCollection\bin\Debug\net7.0\25.ListCollection.pdb
+D:\LEARN\C#\25.ListCollection\obj\Debug\net7.0\25.ListCollection.csproj.AssemblyReference.cache
+D:\LEARN\C#\25.ListCollection\obj\Debug\net7.0\25.ListCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\C#\25.ListCollection\obj\Debug\net7.0\25.ListCollection.AssemblyInfoInputs.cache
+D:\LEARN\C#\25.ListCollection\obj\Debug\net7.0\25.ListCollection.AssemblyInfo.cs
+D:\LEARN\C#\25.ListCollection\obj\Debug\net7.0\25.ListCollection.csproj.CoreCompileInputs.cache
+D:\LEARN\C#\25.ListCollection\obj\Debug\net7.0\25.ListCollection.dll
+D:\LEARN\C#\25.ListCollection\obj\Debug\net7.0\refint\25.ListCollection.dll
+D:\LEARN\C#\25.ListCollection\obj\Debug\net7.0\25.ListCollection.pdb
+D:\LEARN\C#\25.ListCollection\obj\Debug\net7.0\25.ListCollection.genruntimeconfig.cache
+D:\LEARN\C#\25.ListCollection\obj\Debug\net7.0\ref\25.ListCollection.dll
